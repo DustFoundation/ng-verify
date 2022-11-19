@@ -35,5 +35,8 @@
       }
     }
   },
-  "defaultProject": "ng-verify"
+  "defaultProject": "ng-verify",
+  "cli": {
+    "analytics": "0e24343d-c400-46f5-975b-e7378ce610c5"
+  }
 }
