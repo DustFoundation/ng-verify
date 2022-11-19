@@ -1,9 +1,9 @@
 {
-  "name": "@synaps-io/ng-verify",
-  "version": "1.0.1",
+  "name": "@dustfoundation/ng-verify",
+  "version": "14.0.0",
   "peerDependencies": {
-    "@angular/common": "^13.3.0",
-    "@angular/core": "^13.3.0"
+    "@angular/common": "^14.2.11",
+    "@angular/core": "^14.2.11"
   },
   "dependencies": {
     "tslib": "^2.3.0"
